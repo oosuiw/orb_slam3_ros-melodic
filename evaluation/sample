@@ -1,0 +1,2 @@
+python ./evaluate_ate_scale.py ./temp_cam_traj.txt ./temp_kf_traj.txt --plot TEST_230919_3.pdf
+
