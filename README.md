@@ -2,7 +2,7 @@
 
 A ROS implementation of [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) V1.0 that focuses on the ROS part.
 
-This package uses ```catkin build```. Tested on Ubuntu 20.04.
+This package uses ```catkin build```. Tested on Ubuntu 18.04.
 ## 1. Prerequisites
 ### Eigen3
 ```
